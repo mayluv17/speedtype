@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   // function useGameLogic(startingTime = 10) {
-  const startingTime = 5;
+  const startingTime = 30;
   const [formData, setFormData] = useState("");
   const [timeRemaining, setTimeRemaining] = useState(startingTime);
   const [gameStart, setGameStart] = useState(false);
