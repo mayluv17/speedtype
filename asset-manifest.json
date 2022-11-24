@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mayluv17.github.io/speedtype/static/css/main.73ff411f.css",
-    "main.js": "/mayluv17.github.io/speedtype/static/js/main.c2748799.js",
-    "static/js/787.0a09bef7.chunk.js": "/mayluv17.github.io/speedtype/static/js/787.0a09bef7.chunk.js",
-    "index.html": "/mayluv17.github.io/speedtype/index.html",
-    "main.73ff411f.css.map": "/mayluv17.github.io/speedtype/static/css/main.73ff411f.css.map",
-    "main.c2748799.js.map": "/mayluv17.github.io/speedtype/static/js/main.c2748799.js.map",
-    "787.0a09bef7.chunk.js.map": "/mayluv17.github.io/speedtype/static/js/787.0a09bef7.chunk.js.map"
+    "main.css": "/speedtype/static/css/main.73ff411f.css",
+    "main.js": "/speedtype/static/js/main.092a6413.js",
+    "static/js/787.0a09bef7.chunk.js": "/speedtype/static/js/787.0a09bef7.chunk.js",
+    "index.html": "/speedtype/index.html",
+    "main.73ff411f.css.map": "/speedtype/static/css/main.73ff411f.css.map",
+    "main.092a6413.js.map": "/speedtype/static/js/main.092a6413.js.map",
+    "787.0a09bef7.chunk.js.map": "/speedtype/static/js/787.0a09bef7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73ff411f.css",
-    "static/js/main.c2748799.js"
+    "static/js/main.092a6413.js"
   ]
 }
